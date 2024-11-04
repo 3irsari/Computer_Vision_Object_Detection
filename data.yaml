@@ -1,0 +1,7 @@
+path: ./SkyFusion
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 2  # number of classes
+names: ['airplane', 'aircraft']
